@@ -1,4 +1,4 @@
-# Práticas de POO em Java (Curso em Vídeo & Desafios)
+# <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> Práticas de POO em Java (Curso em Vídeo & Desafios) 
 
 Repositório dedicado aos meus estudos e evolução na **Programação Orientada a Objetos (POO)** utilizando **Java**. Aqui encontro a aplicação prática dos pilares da POO, desde o básico de classes e atributos até herança em cadeia e interfaces.
 
