@@ -17,6 +17,9 @@ O projeto está dividido em pacotes que abordam diferentes conceitos arquitetura
 * **`Exercício_CursoemVídeo10/`**
     * *Conceito:* Herança (`extends`) e Superclasses.
     * *Descrição:* Hierarquia de classes envolvendo `Pessoa` (superclasse) e suas subclasses `Aluno`, `Professor` e `Funcionario`.
+* **`Exercício_Veículos/`**
+  * *Conceito:* Herança (`extends`), Construtores com `Super` e Validação de Estado.
+  * *Descrição:* Sistema de gestão de frota contendo a superclasse `Veiculo` e as subclasses `Carro` e `Moto`, aplicando regras de negócio condicionadas ao estado de funcionamento (ligado/desligado).
 * **`Gestão_Frota/`**
     * *Conceito:* Dupla Agregação e Validação de Nulos (`null`).
     * *Descrição:* Sistema de viagens que associa dinamicamente um `Motorista` e um `Carro` a uma classe de serviço `Viagem`.
