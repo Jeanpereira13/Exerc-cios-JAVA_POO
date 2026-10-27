@@ -17,6 +17,9 @@ O projeto está dividido em pacotes que abordam diferentes conceitos arquitetura
 * **`Exercício_CursoemVídeo10/`**
     * *Conceito:* Herança (`extends`) e Superclasses.
     * *Descrição:* Hierarquia de classes envolvendo `Pessoa` (superclasse) e suas subclasses `Aluno`, `Professor` e `Funcionario`.
+* **`Exercício_Escola/`**
+  * *Conceito:* Herança em Cadeia, Sobrecarga de Construtores com `super()` e Reutilização de Métodos.
+  * *Descrição:* Sistema escolar hierárquico abrangendo `PessoaEscola`, `AlunoEscola`, `ProfessorEscola` e a classe neta `ProfessorPesquisador`, exercitando múltiplos níveis de herança e formatação de saídas (`printf`).
 * **`Exercício_Veículos/`**
   * *Conceito:* Herança (`extends`), Construtores com `Super` e Validação de Estado.
   * *Descrição:* Sistema de gestão de frota contendo a superclasse `Veiculo` e as subclasses `Carro` e `Moto`, aplicando regras de negócio condicionadas ao estado de funcionamento (ligado/desligado).
