@@ -11,6 +11,9 @@ O projeto está dividido em pacotes que abordam diferentes conceitos arquitetura
 * **`Assinatura_Streaming/`**
     * *Conceito:* Agregação e Regras de Negócio.
     * *Descrição:* Sistema simulando assinaturas de streaming conectando entidades como `Usuario`, `Plano` e `Assinatura`.
+* **`Exercicio_CursoemVídeo12/`**
+  * *Conceito:* Polimorfismo de Sobreposição (`@Override`), Classes e Métodos Abstratos (`abstract`).
+  * *Descrição:* Sistema hierárquico de animais contendo a superclasse abstrata `Animal`, classes intermediárias (`Mamifero`, `Reptil`, `Ave`) e subclasses específicas (`Cachorro`, `Cobra`, `Galo`), demonstrando múltiplos comportamentos polimórficos para o método `emitirSom()`.
 * **`Exercício_CursoemVideo09/`**
     * *Conceito:* Relacionamento de Agregação e Interfaces (`implements`).
     * *Descrição:* O clássico projeto de Livros e Leitores, utilizando a interface `Publicacao` para definir contratos de comportamento (`folhear`, `abrir`, `fechar`, etc.).
