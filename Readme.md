@@ -26,6 +26,9 @@ O projeto está dividido em pacotes que abordam diferentes conceitos arquitetura
 * **`Exercício_Veículos/`**
   * *Conceito:* Herança (`extends`), Construtores com `Super` e Validação de Estado.
   * *Descrição:* Sistema de gestão de frota contendo a superclasse `Veiculo` e as subclasses `Carro` e `Moto`, aplicando regras de negócio condicionadas ao estado de funcionamento (ligado/desligado).
+* **`Exercício_Vídeo/`**
+  * *Conceito:* Sobrecarga de Métodos (*Method Overload*), Construtores com Parâmetros e Encapsulamento Aplicado.
+  * *Descrição:* Sistema de reprodução de vídeo utilizando a mesma classe para gerenciar o estado (`reproduzindo`, `views`) e sobrecarregar o método `reproduzir()` com diferentes assinaturas (padrão, com qualidade, e com qualidade + velocidade).
 * **`Gestão_Frota/`**
     * *Conceito:* Dupla Agregação e Validação de Nulos (`null`).
     * *Descrição:* Sistema de viagens que associa dinamicamente um `Motorista` e um `Carro` a uma classe de serviço `Viagem`.
